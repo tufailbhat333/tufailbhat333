@@ -10,7 +10,7 @@ My name is Tufail Bhat, and I'm Support Engineer currently working in the tech i
   - Artificial Intelligence (AI)
   - Internet of Things (IoT)
   - Emerging technologies and trends in IT
-  - Problem-solving and technical support
+    
 
 ## Skills
 
